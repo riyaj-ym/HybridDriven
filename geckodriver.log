@@ -1,0 +1,29 @@
+Invalid port. Exiting...
+Invalid port. Exiting...
+Invalid port. Exiting...
+1663427155440	geckodriver	INFO	Listening on 127.0.0.1:59067
+1663432358120	geckodriver	INFO	Listening on 127.0.0.1:55733
+1663432361432	geckodriver	INFO	Listening on 127.0.0.1:55740
+1663432568239	geckodriver	INFO	Listening on 127.0.0.1:56668
+1663432571300	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56669" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\riyaj\\AppData\\Local\\Temp\\rust_mozprofile5c6NZg"
+1663432572048	Marionette	INFO	Marionette enabled
+1663432572059	Marionette	INFO	Listening on port 56680
+WebDriver BiDi listening on ws://localhost:56669
+Read port: 56680
+1663432572287	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\riyaj\\AppData\\Local\\Temp\\rust_mozprofile5c6NZg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56669/devtools/browser/f3abea21-3892-4c30-930b-7c9d008fa2ce
+1663432655901	Marionette	INFO	Stopped listening on port 56680
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "56701" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\riyaj\\AppData\\Local\\Temp\\rust_mozprofilePag0IL"
+1663432581243	Marionette	INFO	Marionette enabled
+1663432581254	Marionette	INFO	Listening on port 56715
+WebDriver BiDi listening on ws://localhost:56701
+Read port: 56715
+1663432581466	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\riyaj\\AppData\\Local\\Temp\\rust_mozprofilePag0IL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56701/devtools/browser/4e43ec37-ae71-479d-bcf0-70caa06db430
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+1663432653399	Marionette	INFO	Stopped listening on port 56715
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
