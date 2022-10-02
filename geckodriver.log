@@ -27,3 +27,16 @@ console.warn: LoginRecipes: "Falling back to a synchronous message for: https://
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
 1663432653399	Marionette	INFO	Stopped listening on port 56715
 console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664702770581	geckodriver	INFO	Listening on 127.0.0.1:51506
+1664702773608	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51507" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\riyaj\\AppData\\Local\\Temp\\rust_mozprofileYLFGGo"
+1664702775099	Marionette	INFO	Marionette enabled
+1664702775110	Marionette	INFO	Listening on port 51518
+Read port: 51518
+WebDriver BiDi listening on ws://127.0.0.1:51507
+1664702775341	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\riyaj\\AppData\\Local\\Temp\\rust_mozprofileYLFGGo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51507/devtools/browser/b9ae7169-1bc6-442e-8846-69b1979a1d0c
+1664702794440	Marionette	INFO	Stopped listening on port 51518
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+[Parent 1012, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:723

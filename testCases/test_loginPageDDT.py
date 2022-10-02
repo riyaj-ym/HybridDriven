@@ -16,7 +16,7 @@ class TestLoginDDT002:
     listStatus = []
 
     @pytest.mark.critical
-    def test_loginDDT(self, setup):
+    def test_loginDDT(self, setup, welcome):
         self.logger.info("***************** TestLoginDDT002 ***************** ")
         self.logger.info("***************** Verifying LoginPage DDT ***************** ")
         driver = setup
@@ -60,4 +60,3 @@ class TestLoginDDT002:
             assert False
 
         self.logger.info("***************** LoginPage DDT Completed ***************** ")
-

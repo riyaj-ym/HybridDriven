@@ -203,3 +203,79 @@
 02/10/22  10:09:01 AM : INFO : Passed
 02/10/22  10:09:01 AM : INFO : ***************** LoginPage DDT Passed ***************** 
 02/10/22  10:09:01 AM : INFO : ***************** LoginPage DDT Completed ***************** 
+02/10/22  10:59:14 AM : INFO : ***************** TestLogin001 ***************** 
+02/10/22  10:59:14 AM : INFO : ***************** Verifying LoginPage Title *****************
+02/10/22  10:59:19 AM : INFO : ***************** TestLogin001 ***************** 
+02/10/22  10:59:19 AM : INFO : ***************** Verifying HomePage Title ***************** 
+02/10/22  11:00:16 AM : INFO : ***************** TestLogin001 ***************** 
+02/10/22  11:00:16 AM : INFO : ***************** Verifying LoginPage Title *****************
+02/10/22  11:00:18 AM : INFO : ***************** LoginPage Title Verification Passed *****************
+02/10/22  11:00:22 AM : INFO : ***************** TestLogin001 ***************** 
+02/10/22  11:00:22 AM : INFO : ***************** Verifying HomePage Title ***************** 
+02/10/22  11:00:29 AM : INFO : ***************** HomePage Title Verification Passed *****************
+02/10/22  11:03:26 AM : INFO : ***************** TestLoginDDT002 ***************** 
+02/10/22  11:03:26 AM : INFO : ***************** Verifying LoginPage DDT ***************** 
+02/10/22  11:03:35 AM : INFO : Passed
+02/10/22  11:03:38 AM : INFO : Passed
+02/10/22  11:03:38 AM : INFO : Passed
+02/10/22  11:03:39 AM : INFO : Passed
+02/10/22  11:03:39 AM : INFO : ***************** LoginPage DDT Passed ***************** 
+02/10/22  11:03:39 AM : INFO : ***************** LoginPage DDT Completed ***************** 
+02/10/22  11:04:29 AM : INFO : ***************** TestLoginDDT002 ***************** 
+02/10/22  11:04:29 AM : INFO : ***************** Verifying LoginPage DDT ***************** 
+02/10/22  11:04:34 AM : INFO : Passed
+02/10/22  11:04:37 AM : INFO : Passed
+02/10/22  11:04:38 AM : INFO : Passed
+02/10/22  11:04:39 AM : INFO : Passed
+02/10/22  11:04:55 AM : INFO : ***************** LoginPage DDT Passed ***************** 
+02/10/22  11:04:55 AM : INFO : ***************** LoginPage DDT Completed ***************** 
+02/10/22  11:07:37 AM : INFO : ***************** TestLoginDDT002 ***************** 
+02/10/22  11:07:37 AM : INFO : ***************** Verifying LoginPage DDT ***************** 
+02/10/22  11:07:45 AM : INFO : Passed
+02/10/22  11:07:48 AM : INFO : Passed
+02/10/22  11:07:49 AM : INFO : Passed
+02/10/22  11:07:49 AM : INFO : Passed
+02/10/22  11:07:49 AM : INFO : ***************** LoginPage DDT Passed ***************** 
+02/10/22  11:07:49 AM : INFO : ***************** LoginPage DDT Completed ***************** 
+02/10/22  11:39:30 AM : INFO : ***************** TestLoginDDT002 ***************** 
+02/10/22  11:39:30 AM : INFO : ***************** Verifying LoginPage DDT ***************** 
+02/10/22  11:39:36 AM : INFO : Passed
+02/10/22  11:39:38 AM : INFO : Passed
+02/10/22  11:39:39 AM : INFO : Passed
+02/10/22  11:39:40 AM : INFO : Passed
+02/10/22  11:39:56 AM : INFO : ***************** LoginPage DDT Passed ***************** 
+02/10/22  11:39:56 AM : INFO : ***************** LoginPage DDT Completed ***************** 
+02/10/22  02:39:34 PM : INFO : ====== WebDriver manager ======
+02/10/22  02:39:35 PM : INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+02/10/22  02:39:36 PM : INFO : Driver [C:\Users\riyaj\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+02/10/22  02:39:39 PM : INFO : ***************** TestLoginDDT002 ***************** 
+02/10/22  02:39:39 PM : INFO : ***************** Verifying LoginPage DDT ***************** 
+02/10/22  02:39:46 PM : INFO : Passed
+02/10/22  02:39:49 PM : INFO : Passed
+02/10/22  02:39:50 PM : INFO : Passed
+02/10/22  02:39:51 PM : INFO : Passed
+02/10/22  02:39:51 PM : INFO : ***************** LoginPage DDT Passed ***************** 
+02/10/22  02:39:51 PM : INFO : ***************** LoginPage DDT Completed ***************** 
+02/10/22  02:45:46 PM : INFO : ====== WebDriver manager ======
+02/10/22  02:45:47 PM : INFO : Get LATEST edgedriver version for 105.0.1343 Edge
+02/10/22  02:45:49 PM : INFO : There is no [win64] edgedriver for browser 105.0.1343 in cache
+02/10/22  02:45:49 PM : INFO : About to download new driver from https://msedgedriver.azureedge.net/105.0.1343.53/edgedriver_win64.zip
+02/10/22  02:45:53 PM : INFO : Driver has been saved in cache [C:\Users\riyaj\.wdm\drivers\edgedriver\win64\105.0.1343]
+02/10/22  02:45:55 PM : INFO : ***************** TestLogin001 ***************** 
+02/10/22  02:45:55 PM : INFO : ***************** Verifying LoginPage Title *****************
+02/10/22  02:45:58 PM : INFO : ***************** LoginPage Title Verification Passed *****************
+02/10/22  02:48:14 PM : INFO : ====== WebDriver manager ======
+02/10/22  02:48:15 PM : INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+02/10/22  02:48:16 PM : INFO : Driver [C:\Users\riyaj\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+02/10/22  02:48:20 PM : INFO : ***************** TestLogin001 ***************** 
+02/10/22  02:48:20 PM : INFO : ***************** Verifying LoginPage Title *****************
+02/10/22  02:48:22 PM : INFO : ***************** LoginPage Title Verification Passed *****************
+02/10/22  02:56:03 PM : INFO : ====== WebDriver manager ======
+02/10/22  02:56:04 PM : INFO : Get LATEST geckodriver version for 105.0 firefox
+02/10/22  02:56:05 PM : INFO : There is no [win64] geckodriver for browser 105.0 in cache
+02/10/22  02:56:05 PM : INFO : Getting latest mozilla release info for v0.31.0
+02/10/22  02:56:06 PM : INFO : About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.31.0/geckodriver-v0.31.0-win64.zip
+02/10/22  02:56:10 PM : INFO : Driver has been saved in cache [C:\Users\riyaj\.wdm\drivers\geckodriver\win64\0.31]
+02/10/22  02:56:18 PM : INFO : ***************** TestLogin001 ***************** 
+02/10/22  02:56:18 PM : INFO : ***************** Verifying LoginPage Title *****************
+02/10/22  02:56:34 PM : INFO : ***************** LoginPage Title Verification Passed *****************

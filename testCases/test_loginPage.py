@@ -34,7 +34,6 @@ class TestLogin001:
             assert False
 
     @pytest.mark.regression
-    @pytest.mark.smoke
     def test_homePageTitle(self, setup):
         self.logger.info("***************** TestLogin001 ***************** ")
         self.logger.info("***************** Verifying HomePage Title ***************** ")

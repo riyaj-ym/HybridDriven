@@ -1,5 +1,8 @@
 import pytest
 from selenium import webdriver
+from webdriver_manager.chrome import ChromeDriverManager
+from webdriver_manager.firefox import GeckoDriverManager
+from webdriver_manager.microsoft import EdgeChromiumDriverManager
 
 
 @pytest.fixture()
@@ -8,7 +11,7 @@ def setup(browser):
         from selenium.webdriver.firefox.service import Service
         ops = webdriver.FirefoxOptions()
         # ops.headless = True
-        ser_oj = Service("E:/Practice/Python/Hybrid FrameWork/Web Drivers/geckodriver.exe")
+        ser_oj = Service(GeckoDriverManager().install())
         driver = webdriver.Firefox(service=ser_oj, options=ops)
         return driver
 
@@ -16,7 +19,7 @@ def setup(browser):
         from selenium.webdriver.edge.service import Service
         ops = webdriver.EdgeOptions()
         # ops.headless = True
-        ser_oj = Service("E:/Practice/Python/Hybrid FrameWork/Web Drivers/msedgedriver.exe")
+        ser_oj = Service(EdgeChromiumDriverManager().install())
         driver = webdriver.Edge(service=ser_oj, options=ops)
         return driver
 
@@ -24,9 +27,16 @@ def setup(browser):
         from selenium.webdriver.chrome.service import Service
         ops = webdriver.ChromeOptions()
         # ops.headless = True
-        ser_oj = Service("E:/Practice/Python/Hybrid FrameWork/Web Drivers/chromedriver.exe")
+        ser_oj = Service(ChromeDriverManager().install())
         driver = webdriver.Chrome(service=ser_oj, options=ops)
         return driver
+
+
+@pytest.fixture()
+def welcome():
+    print("\nTesting Started...")
+    yield
+    print("\nTesting Ended...")
 
 
 def pytest_addoption(parser):  # This will get the value from CLI/hooks
