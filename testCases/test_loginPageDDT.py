@@ -1,5 +1,7 @@
 import time
 
+import pytest
+
 from pageObjects.LoginPage import LoginPage
 from utilities.readProperties import ReadConfigs
 from logs.customLogger import LogGen
@@ -13,6 +15,7 @@ class TestLoginDDT002:
     sheet = 'Data'
     listStatus = []
 
+    @pytest.mark.critical
     def test_loginDDT(self, setup):
         self.logger.info("***************** TestLoginDDT002 ***************** ")
         self.logger.info("***************** Verifying LoginPage DDT ***************** ")

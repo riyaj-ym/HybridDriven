@@ -103,3 +103,103 @@
 19/09/22  10:37:16 AM : INFO : Passed
 19/09/22  10:37:16 AM : INFO : ***************** LoginPage DDT Passed ***************** 
 19/09/22  10:37:16 AM : INFO : ***************** LoginPage DDT Completed ***************** 
+02/10/22  09:29:42 AM : INFO : ***************** TestLogin001 ***************** 
+02/10/22  09:29:42 AM : INFO : ***************** Verifying LoginPage Title *****************
+02/10/22  09:29:45 AM : INFO : ***************** LoginPage Title Verification Passed *****************
+02/10/22  09:30:04 AM : INFO : ***************** TestLogin001 ***************** 
+02/10/22  09:30:04 AM : INFO : ***************** Verifying HomePage Title ***************** 
+02/10/22  09:30:12 AM : INFO : ***************** HomePage Title Verification Passed *****************
+02/10/22  09:31:43 AM : INFO : ***************** TestLogin001 ***************** 
+02/10/22  09:31:43 AM : INFO : ***************** Verifying LoginPage Title *****************
+02/10/22  09:31:45 AM : INFO : ***************** LoginPage Title Verification Passed *****************
+02/10/22  09:32:05 AM : INFO : ***************** TestLogin001 ***************** 
+02/10/22  09:32:05 AM : INFO : ***************** Verifying HomePage Title ***************** 
+02/10/22  09:32:12 AM : INFO : ***************** HomePage Title Verification Passed *****************
+02/10/22  09:34:30 AM : INFO : ***************** TestLogin001 ***************** 
+02/10/22  09:34:30 AM : INFO : ***************** Verifying LoginPage Title *****************
+02/10/22  09:34:32 AM : INFO : ***************** LoginPage Title Verification Passed *****************
+02/10/22  09:34:37 AM : INFO : ***************** TestLogin001 ***************** 
+02/10/22  09:34:37 AM : INFO : ***************** Verifying HomePage Title ***************** 
+02/10/22  09:34:43 AM : INFO : ***************** HomePage Title Verification Passed *****************
+02/10/22  09:35:56 AM : INFO : ***************** TestLogin001 ***************** 
+02/10/22  09:35:56 AM : INFO : ***************** Verifying LoginPage Title *****************
+02/10/22  09:35:59 AM : INFO : ***************** LoginPage Title Verification Passed *****************
+02/10/22  09:36:03 AM : INFO : ***************** TestLogin001 ***************** 
+02/10/22  09:36:03 AM : INFO : ***************** Verifying HomePage Title ***************** 
+02/10/22  09:36:12 AM : INFO : ***************** HomePage Title Verification Passed *****************
+02/10/22  09:37:17 AM : INFO : ***************** TestLogin001 ***************** 
+02/10/22  09:37:17 AM : INFO : ***************** Verifying LoginPage Title *****************
+02/10/22  09:37:19 AM : INFO : ***************** LoginPage Title Verification Passed *****************
+02/10/22  09:37:23 AM : INFO : ***************** TestLogin001 ***************** 
+02/10/22  09:37:23 AM : INFO : ***************** Verifying HomePage Title ***************** 
+02/10/22  09:37:29 AM : INFO : ***************** HomePage Title Verification Passed *****************
+02/10/22  09:39:26 AM : INFO : ***************** TestLogin001 ***************** 
+02/10/22  09:39:26 AM : INFO : ***************** Verifying LoginPage Title *****************
+02/10/22  09:39:28 AM : INFO : ***************** LoginPage Title Verification Passed *****************
+02/10/22  09:39:48 AM : INFO : ***************** TestLogin001 ***************** 
+02/10/22  09:39:48 AM : INFO : ***************** Verifying HomePage Title ***************** 
+02/10/22  09:39:55 AM : INFO : ***************** HomePage Title Verification Passed *****************
+02/10/22  09:40:43 AM : INFO : ***************** TestLogin001 ***************** 
+02/10/22  09:40:43 AM : INFO : ***************** Verifying LoginPage Title *****************
+02/10/22  09:40:45 AM : INFO : ***************** LoginPage Title Verification Passed *****************
+02/10/22  09:40:49 AM : INFO : ***************** TestLogin001 ***************** 
+02/10/22  09:40:49 AM : INFO : ***************** Verifying HomePage Title ***************** 
+02/10/22  09:40:56 AM : INFO : ***************** HomePage Title Verification Passed *****************
+02/10/22  09:43:58 AM : INFO : ***************** TestLogin001 ***************** 
+02/10/22  09:43:58 AM : INFO : ***************** Verifying LoginPage Title *****************
+02/10/22  09:44:00 AM : INFO : ***************** LoginPage Title Verification Passed *****************
+02/10/22  09:44:04 AM : INFO : ***************** TestLogin001 ***************** 
+02/10/22  09:44:04 AM : INFO : ***************** Verifying HomePage Title ***************** 
+02/10/22  09:44:11 AM : INFO : ***************** HomePage Title Verification Passed *****************
+02/10/22  09:44:53 AM : INFO : ***************** TestLogin001 ***************** 
+02/10/22  09:44:53 AM : INFO : ***************** Verifying LoginPage Title *****************
+02/10/22  09:44:55 AM : INFO : ***************** LoginPage Title Verification Passed *****************
+02/10/22  09:47:36 AM : INFO : ***************** TestLogin001 ***************** 
+02/10/22  09:47:36 AM : INFO : ***************** Verifying LoginPage Title *****************
+02/10/22  09:47:38 AM : INFO : ***************** LoginPage Title Verification Passed *****************
+02/10/22  09:48:47 AM : INFO : ***************** TestLogin001 ***************** 
+02/10/22  09:48:47 AM : INFO : ***************** Verifying LoginPage Title *****************
+02/10/22  09:48:49 AM : INFO : ***************** LoginPage Title Verification Passed *****************
+02/10/22  09:52:17 AM : INFO : ***************** TestLogin001 ***************** 
+02/10/22  09:52:17 AM : INFO : ***************** Verifying HomePage Title ***************** 
+02/10/22  09:52:40 AM : INFO : ***************** HomePage Title Verification Passed *****************
+02/10/22  09:54:33 AM : INFO : ***************** TestLogin001 ***************** 
+02/10/22  09:54:33 AM : INFO : ***************** Verifying LoginPage Title *****************
+02/10/22  09:54:35 AM : INFO : ***************** LoginPage Title Verification Passed *****************
+02/10/22  09:54:39 AM : INFO : ***************** TestLogin001 ***************** 
+02/10/22  09:54:39 AM : INFO : ***************** Verifying HomePage Title ***************** 
+02/10/22  09:54:46 AM : INFO : ***************** HomePage Title Verification Passed *****************
+02/10/22  09:55:42 AM : INFO : ***************** TestLogin001 ***************** 
+02/10/22  09:55:42 AM : INFO : ***************** Verifying LoginPage Title *****************
+02/10/22  09:55:44 AM : INFO : ***************** LoginPage Title Verification Passed *****************
+02/10/22  09:55:48 AM : INFO : ***************** TestLogin001 ***************** 
+02/10/22  09:55:48 AM : INFO : ***************** Verifying HomePage Title ***************** 
+02/10/22  09:55:55 AM : INFO : ***************** HomePage Title Verification Passed *****************
+02/10/22  09:56:55 AM : INFO : ***************** TestLogin001 ***************** 
+02/10/22  09:56:55 AM : INFO : ***************** Verifying LoginPage Title *****************
+02/10/22  09:56:57 AM : INFO : ***************** LoginPage Title Verification Passed *****************
+02/10/22  09:57:17 AM : INFO : ***************** TestLogin001 ***************** 
+02/10/22  09:57:17 AM : INFO : ***************** Verifying HomePage Title ***************** 
+02/10/22  09:57:39 AM : INFO : ***************** HomePage Title Verification Passed *****************
+02/10/22  09:59:35 AM : INFO : ***************** TestLogin001 ***************** 
+02/10/22  09:59:35 AM : INFO : ***************** Verifying HomePage Title ***************** 
+02/10/22  09:59:42 AM : INFO : ***************** HomePage Title Verification Passed *****************
+02/10/22  10:01:25 AM : INFO : ***************** TestLogin001 ***************** 
+02/10/22  10:01:25 AM : INFO : ***************** Verifying HomePage Title ***************** 
+02/10/22  10:01:33 AM : INFO : ***************** HomePage Title Verification Passed *****************
+02/10/22  10:03:29 AM : INFO : ***************** TestLoginDDT002 ***************** 
+02/10/22  10:03:29 AM : INFO : ***************** Verifying LoginPage DDT ***************** 
+02/10/22  10:03:35 AM : INFO : Passed
+02/10/22  10:03:38 AM : INFO : Passed
+02/10/22  10:03:39 AM : INFO : Passed
+02/10/22  10:03:40 AM : INFO : Passed
+02/10/22  10:03:40 AM : INFO : ***************** LoginPage DDT Passed ***************** 
+02/10/22  10:03:40 AM : INFO : ***************** LoginPage DDT Completed ***************** 
+02/10/22  10:08:29 AM : INFO : ***************** TestLoginDDT002 ***************** 
+02/10/22  10:08:29 AM : INFO : ***************** Verifying LoginPage DDT ***************** 
+02/10/22  10:08:55 AM : INFO : Passed
+02/10/22  10:09:00 AM : INFO : Passed
+02/10/22  10:09:00 AM : INFO : Passed
+02/10/22  10:09:01 AM : INFO : Passed
+02/10/22  10:09:01 AM : INFO : ***************** LoginPage DDT Passed ***************** 
+02/10/22  10:09:01 AM : INFO : ***************** LoginPage DDT Completed ***************** 
