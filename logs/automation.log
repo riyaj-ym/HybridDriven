@@ -279,3 +279,10 @@
 02/10/22  02:56:18 PM : INFO : ***************** TestLogin001 ***************** 
 02/10/22  02:56:18 PM : INFO : ***************** Verifying LoginPage Title *****************
 02/10/22  02:56:34 PM : INFO : ***************** LoginPage Title Verification Passed *****************
+03/10/22  01:00:07 PM : INFO : ====== WebDriver manager ======
+03/10/22  01:00:08 PM : INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+03/10/22  01:00:09 PM : INFO : About to download new driver from https://chromedriver.storage.googleapis.com/106.0.5249.61/chromedriver_win32.zip
+03/10/22  01:00:14 PM : INFO : Driver has been saved in cache [C:\Users\riyaj\.wdm\drivers\chromedriver\win32\106.0.5249]
+03/10/22  01:00:19 PM : INFO : ***************** TestLogin001 ***************** 
+03/10/22  01:00:19 PM : INFO : ***************** Verifying HomePage Title ***************** 
+03/10/22  01:00:46 PM : INFO : ***************** HomePage Title Verification Passed *****************

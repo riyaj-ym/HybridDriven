@@ -60,6 +60,3 @@ class TestLoginDDT002:
             assert False
 
         self.logger.info("***************** LoginPage DDT Completed ***************** ")
-
-
-fbjhdbnfkdfn
